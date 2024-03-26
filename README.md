@@ -30,4 +30,4 @@ UC 1     | UC 2       | UC 3
 -------- |------      |-----
 Definição| Construção | Manutenção
 
-[Para acessar o assunto, clique aqui](https://www.monitoratec.com.br/blog/servico-de-engenharia-de-requisitos/)
+Para acessar o assunto, [clique aqui](https://www.monitoratec.com.br/blog/servico-de-engenharia-de-requisitos/)
